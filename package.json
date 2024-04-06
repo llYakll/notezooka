@@ -10,12 +10,12 @@
   "author": "llYakll",
   "license": "MIT",
   "engines": {
-    "node": "14.x"
+    "node": "20.11.1"
   },
   "dependencies": {
     "express": "^4.19.2",
     "path": "^0.12.7",
-    "uuid": "^9.0.1"
+    "uuidv4": "^6.2.13"
   },
   "devDependencies": {
     "jest": "^29.7.0",
